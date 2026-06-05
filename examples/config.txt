@@ -1,0 +1,5 @@
+	# Sorting rules
+images=jpg,jpeg,png,gif,bmp
+documents=txt,pdf,docx,rtf,md
+archives=zip,rar,7z
+code=cpp,h,hpp,py,js,html,css
